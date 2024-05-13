@@ -32,13 +32,13 @@
                                         <li class="nav-item">
                                             <a class="nav-link transition" href="#works">Works</a>
                                         </li>
-                                        <li class="nav-item">
+                                        <!-- <li class="nav-item">
                                             <a class="nav-link transition" href="#blog">Blog</a>
                                             <ul class="submenu transition">
                                                 <li><a href="#">Blog</a></li>
                                                 <li><a href="#">Blog Details</a></li>
                                             </ul>
-                                        </li>
+                                        </li> -->
                                         <li class="nav-item">
                                             <a class="nav-link transition" href="#contact">Contact</a>
                                         </li>
