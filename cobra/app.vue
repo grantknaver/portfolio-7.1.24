@@ -29,9 +29,9 @@
 
 <script setup lang="ts">
 useHead({
-  title: 'Cobra Nuxt js Portfolio Template',
+  title: 'glkFreelance',
   meta: [
-    { name: 'description', content: 'Cobra is Nuxt 3 Personal Portfolio Template' }
+    { name: 'description', content: 'glkFreelance Portfolio' }
   ],
   bodyAttrs: {
     id: 'body'

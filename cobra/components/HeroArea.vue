@@ -11,18 +11,18 @@
                         <div>
                             I'm a
                             <div id="typed-strings">
-                                <!-- Animated Text Writer -->
                                 <span>Freelancer.</span>
-                                <span>Vue Developer.</span>
-                                <span>Angular Developer.</span>
+                                <span>Vue Developer <i class="icon-fire"></i>.</span>
+                                <span>Angular Developer <i class="icon-globe"></i>.</span>
                             </div>
                             <span class="LR-C" id="typed" style="white-space:pre;"></span>
                         </div>
                         <p>
-                            Dorem ipsum dolor sitamet, consectetur adipiscing elit, sed do
-                            eiusm tempor incididunt ulabore et dolore magna aliqua.
+                            My passion for innovation is evident in my commitment to integrating cutting-edge technology into my client's projects, 
+                            ensuring my solutions aren't just effective but are also efficient, 
+                            saving my clients both time and money.
                         </p>
-                        <a href="#" class="btn radius-btn">Download</a>
+                        <a href="https://firebasestorage.googleapis.com/v0/b/portfolio-page-819af.appspot.com/o/Grant_Knaver_Resume.pdf?alt=media&token=53de351b-8d93-4651-bdd7-70ec26bf14ff" class="btn radius-btn">Download Resume</a>
                     </div>
                     <!-- End Hero Caption -->
                 </div>
