@@ -27,20 +27,20 @@
               UI, Developed by Modular, Scalable and Functional Code.
             </p>
             <ul class="about-info mt-4">
-              <li><span>Name:</span> <span>Karim EzZat</span></li>
-              <li>
+              <li><span>Name:</span> <span>Grant Knaver</span></li>
+              <!-- <li>
                 <span>Date of birth:</span> <span>November 28, 1993</span>
-              </li>
+              </li> -->
               <li>
-                <span>Address:</span> <span>Mansoura El-Dakahlia, Egypt</span>
+                <span>Address:</span> <span>Bend, Oregon</span>
               </li>
-              <li><span>Zip code:</span> <span>1234</span></li>
-              <li><span>Email:</span> <span>karim@gmail.com</span></li>
-              <li><span>Phone: </span> <span>+1-2345-6789-0-0</span></li>
+              <li><span>Zip code:</span> <span>97701</span></li>
+              <li><span>Email:</span> <span>grantknaver@gmail.com</span></li>
+              <li><span>Phone: </span> <span>+1-541-288-3502</span></li>
             </ul>
-            <div class="download-btn mt-5">
+            <!-- <div class="download-btn mt-5">
               <a class="btn radius-btn" href="#">Download Cv</a>
-            </div>
+            </div> -->
           </div>
           <!-- End About Detail -->
         </div>

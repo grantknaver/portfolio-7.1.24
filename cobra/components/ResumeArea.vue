@@ -16,7 +16,7 @@
           <!-- Start Resume Nav -->
           <nav id="navi">
             <ul>
-              <li><a href="#page-1">Education</a></li>
+              <!-- <li><a href="#page-1">Education</a></li> -->
               <li><a href="#page-2">Experience</a></li>
               <li><a href="#page-3">Skills</a></li>
               <li><a href="#page-4">Awards</a></li>
@@ -26,7 +26,7 @@
         </div>
         <div class="col-lg-9 col-md-12">
           <!-- Start Education -->
-          <div id="page-1" class="page one">
+          <!-- <div id="page-1" class="page one">
             <h3 class="heading">Education</h3>
             <div class="resume-wrap transition d-flex">
               <div class="icon d-flex align-items-center justify-content-center">
@@ -76,7 +76,7 @@
                 </p>
               </div>
             </div>
-          </div>
+          </div> -->
           <!-- End Education -->
 
           <!-- Start Experience -->
@@ -87,15 +87,16 @@
                 <span class="icon-briefcase"></span>
               </div>
               <div class="text ps-3">
-                <span class="date">2014-2015</span>
+                <span class="date">2023-Present</span>
                 <h4>Software Developer</h4>
-                <span class="position">Mansoura University</span>
-                <p>
-                  Lorem ipsum, or lipsum as it is sometimes known, is dummy text
-                  used in laying out print, graphic or web designs. The passage
-                  is attributed to an unknown typesetter in the 15th century who
-                  is thought to have.
-                </p>
+                <span class="position">ORNL</span>
+                <ul>
+                  <li>• Angular Development (version 17)</li>
+                  <li>• NgRx for state management</li>
+                  <li>• SCSS for styling</li>
+                  <li>• Consumed and developed Rest APIs</li>
+                  <li>• GIS integration</li>
+                </ul>
               </div>
             </div>
             <div class="resume-wrap transition d-flex">
@@ -103,15 +104,142 @@
                 <span class="icon-briefcase"></span>
               </div>
               <div class="text ps-3">
-                <span class="date">2014-2015</span>
-                <h4>Web Marketing</h4>
-                <span class="position">Mansoura University</span>
-                <p>
-                  Lorem ipsum, or lipsum as it is sometimes known, is dummy text
-                  used in laying out print, graphic or web designs. The passage
-                  is attributed to an unknown typesetter in the 15th century who
-                  is thought to have.
-                </p>
+                <span class="date">2017-Present</span>
+                <h4>Software Developer | Designer</h4>
+                <span class="position">Glkfreelance & IndieVision LLC</span>
+                <ul>
+                  <li>• Angular Development (version 6 - 17)</li>
+                  <li>• Vue Development (Options & Composition API)</li>
+                  <li>• State management (NgRx, Pinia, Akita)</li>
+                  <li>• Component Libraries (Material, Kendo, Quasar, Vuetify)</li>
+                  <li>• Styling (CSS, SASS, Tailwind CSS)</li>
+                  <li>• Firebase for hosting, auth, and Firestore (Cloud)</li>
+                  <li>• Wix Development</li>
+                  <li>• WordPress Development</li>
+                  <li>• Image Manipulation (GIMP, Photoshop)</li>
+                </ul>
+              </div>
+            </div>
+            <div class="resume-wrap transition d-flex">
+              <div class="icon d-flex align-items-center justify-content-center">
+                <span class="icon-briefcase"></span>
+              </div>
+              <div class="text ps-3">
+                <span class="date">2023</span>
+                <h4>Angular Developer</h4>
+                <span class="position">T2</span>
+                <ul>
+                  <li>• Angular Development (version 15)</li>
+                  <li>• NgRx for state management</li>
+                  <li>• Consumed Rest API's</li>
+                  <li>• SCSS for styling</li>
+                  <li>• Consumed and developed Rest APIs</li>
+                  <li>• Heavy RxJS</li>
+                </ul>
+              </div>
+            </div>
+            <div class="resume-wrap transition d-flex">
+              <div class="icon d-flex align-items-center justify-content-center">
+                <span class="icon-briefcase"></span>
+              </div>
+              <div class="text ps-3">
+                <span class="date">2022-2023</span>
+                <h4>Angular Developer</h4>
+                <span class="position">Pyramid Consulting - Labcorp</span>
+                <ul>
+                  <li>• Angular Development (version 13 - 15)</li>
+                  <li>• RxJS to address asynchronous data flows</li>
+                  <li>• NgRx for state management</li>
+                  <li>• SCSS for styling</li>
+                  <li>• Angular 14+ for the general buildout</li>
+                  <li>• Git for version control</li>
+                  <li>• Jira to adhere to Agile</li>
+                  <li>• Develop with a HEAVY focus on usability</li>
+                  <li>• Revised, modularized, and updated old code bases to modern development standards, reducing operating costs and improving functionality</li>
+                  <li>• Participated in software field testing to verify the performance of developed projects</li>
+                  <li>• Developed user-friendly web forms with validation and error handling</li>
+                  <li>• Consumed Rest API's</li>
+                  <li>• Node Development</li>
+                </ul>
+              </div>
+            </div>
+            <div class="resume-wrap transition d-flex">
+              <div class="icon d-flex align-items-center justify-content-center">
+                <span class="icon-briefcase"></span>
+              </div>
+              <div class="text ps-3">
+                <span class="date">2022</span>
+                <h4>Angular Developer</h4>
+                <span class="position">L&T Infotech, LTI</span>
+                <ul>
+                  <li>• Further JavaScript training</li>
+                  <li>• Basic cyber security training</li>
+                  <li>• Advanced cyber security training</li>
+                </ul>
+              </div>
+            </div>
+            <div class="resume-wrap transition d-flex">
+              <div class="icon d-flex align-items-center justify-content-center">
+                <span class="icon-briefcase"></span>
+              </div>
+              <div class="text ps-3">
+                <span class="date">2022</span>
+                <h4>Angular Developer</h4>
+                <span class="position">OpenArc - SAE</span>
+                <ul>
+                  <li>• Angular Development (version 13 & 14)</li>
+                  <li>• Used Material library in development Developed requests to accommodate multi-variable backend filtering</li>
+                  <li>• Akita state management</li>
+                  <li>• Heavy RxJS usage</li>
+                  <li>• Refractor code to address smelly code</li>
+                  <li>• Participated in an Agile development process</li>
+                  <li>• Heavy Git usage</li>
+                </ul>
+              </div>
+            </div>
+            <div class="resume-wrap transition d-flex">
+              <div class="icon d-flex align-items-center justify-content-center">
+                <span class="icon-briefcase"></span>
+              </div>
+              <div class="text ps-3">
+                <span class="date">2021 - 2022</span>
+                <h4>Angular Developer</h4>
+                <span class="position">TCS - Amtrak</span>
+                <ul>
+                  <li>• Angular Development (version 13 & 14)</li>
+                  <li>• Used Material library in development Developed requests to accommodate multi-variable backend filtering</li>
+                  <li>• Akita state management</li>
+                  <li>• Heavy RxJS usage</li>
+                  <li>• Refractor code to address smelly code</li>
+                  <li>• Participated in an Agile development process</li>
+                  <li>• Heavy Git usage</li>
+                </ul>
+              </div>
+            </div>
+            <div class="resume-wrap transition d-flex">
+              <div class="icon d-flex align-items-center justify-content-center">
+                <span class="icon-briefcase"></span>
+              </div>
+              <div class="text ps-3">
+                <span class="date">2020 - 2021</span>
+                <h4>Angular Developer</h4>
+                <span class="position">Apex Systems - Lockheed Martin</span>
+                <ul>
+                  <li>• Angular Development (version 8 & 9)</li>
+                  <li>• Contributed to 3 Angular feature modules</li>
+                  <li>• Built multiple custom pipes</li>
+                  <li>• Worked with heavy abstractions (Not a fan)</li>
+                  <li>• NgRx state management</li>
+                  <li>• Participated in the Agile development process</li>
+                  <li>• Heavy RxJS usage</li>
+                  <li>• Jest for Unit Testing (beginner)</li>
+                  <li>• Used Nrwl for most default content generation and organization</li>
+                  <li>• Heavy Git usage</li>
+                  <li>• Used Swagger for API testing and reference</li>
+                  <li>• Performed unit testing of web applications and troubleshooting issues</li>
+                  <li>• Heavy RxJS usage</li>
+                  <li>• Consumed Rest API's</li>
+                </ul>
               </div>
             </div>
 
@@ -120,15 +248,47 @@
                 <span class="icon-briefcase"></span>
               </div>
               <div class="text ps-3">
-                <span class="date">2017-2018</span>
-                <h4>UI/UX Designer</h4>
-                <span class="position">Mansoura University</span>
-                <p>
-                  Lorem ipsum, or lipsum as it is sometimes known, is dummy text
-                  used in laying out print, graphic or web designs. The passage
-                  is attributed to an unknown typesetter in the 15th century who
-                  is thought to have.
-                </p>
+                <span class="date">2018 - 2019</span>
+                <h4>Lead Developer</h4>
+                <span class="position">Privacy Corps</span>
+                <ul>
+                  <li>• Angular Development (versions 7 & 8)</li>
+                  <li>• Built over 20 feature modules</li>
+                  <li>• Used both synchronous and asynchronous data flows, with heavy emphasis on synchronous</li>
+                  <li>• Setup authentication and authorization process</li>
+                  <li>• Setup Angular Universal</li>
+                  <li>• Heavy debugging</li>
+                  <li>• Heavy RxJS usage</li>
+                  <li>• Intermediate Node & Express usage</li>
+                  <li>• Heavy Git usage</li>
+                  <li>• I Managed a team of designers and backend developers.</li>
+                  <li>• Consumed and developed Rest APIs</li>
+                </ul>
+              </div>
+            </div>
+
+            <div class="resume-wrap transition d-flex">
+              <div class="icon d-flex align-items-center justify-content-center">
+                <span class="icon-briefcase"></span>
+              </div>
+              <div class="text ps-3">
+                <span class="date">2017 - 2018</span>
+                <h4>Web Developer | Web Manager</h4>
+                <span class="position">Econoheat</span>
+                <ul>
+                  <li>• Angular Development (version 6)</li>
+                  <li>• Built six responsive landing pages using Angular and Material</li>
+                  <li>• Built ROI calculator</li>
+                  <li>• Handled all other development needs, not including the WordPress frontend</li>
+                  <li>• Helped in HTML or CSS edits</li>
+                  <li>• Managed web presence</li>
+                  <li>• Heavy Git usage</li>
+                  <li>• WordPress experience (Intermediate)</li>
+                  <li>• Angular Development (6+)</li>
+                  <li>• Coded websites using HTML, CSS, JavaScript, and jQuery languages Provided frontend website development using WordPress, Hubspot, and other editing software</li>
+                  <li>• Oversaw technical issues and troubleshooting requests to resolve user problems</li>
+                  <li>• Consumed and developed Rest APIs</li>
+                </ul>
               </div>
             </div>
           </div>
@@ -204,7 +364,7 @@
 
           <!-- Start Awards -->
           <div id="page-4" class="page four">
-            <h3 class="heading">Awards</h3>
+            <h3 class="heading">Certificates</h3>
             <div class="resume-wrap transition d-flex">
               <div class="icon d-flex align-items-center justify-content-center">
                 <span class="icon-badge"></span>

@@ -9,11 +9,11 @@
               >My Services</span
             >
             <h2 class="service-title mb-4 mt-3">
-              I can make this awesome things
+              Make Us your Home For Development            
             </h2>
             <p>
-              I understand what your business means to you,your requirements
-              considering trends.Smet nemo excepturi voluptas eligendi .
+              I have mastered the art of software development,
+              creating captivating applications that stand out in the digital landscape. 
             </p>
           </div>
         </div>
@@ -23,9 +23,9 @@
             <div class="col-lg-6 col-md-6 col-sm-6">
               <!-- Start Single Service Block -->
               <div class="service-block text-center mb-4 mb-lg-0">
-                <i class="fa fa-lightbulb-o"></i>
-                <h4>Data analysis</h4>
-                <p>A complete web app solution for business</p>
+                <i class="fa fa-desktop"></i>
+                <h4>Frontend Development</h4>
+                <p>Craft compelling visuals and layouts that capture attention and drive user engagement.</p>
               </div>
               <!-- End Single Service Block -->
             </div>
@@ -33,9 +33,9 @@
             <div class="col-lg-6 col-md-6 col-sm-6">
               <!-- Start Single Service Block -->
               <div class="service-block text-center mt-4 mb-4 mb-lg-0">
-                <i class="fa fa-dashboard"></i>
-                <h4>Web Development</h4>
-                <p>A complete web app solution for business</p>
+                <i class="fa fa-database"></i>
+                <h4>Backend Development</h4>
+                <p>Build solid and efficient backend structures that support high performance and reliability for every user interaction.</p>
               </div>
               <!-- End Single Service Block -->
             </div>
@@ -43,9 +43,9 @@
             <div class="col-lg-6 col-md-6 col-sm-6">
               <!-- Start Single Service Block -->
               <div class="service-block text-center">
-                <i class="fa fa-diamond"></i>
-                <h4>Content Mangement</h4>
-                <p>A complete web app solution for business</p>
+                <i class="fa fa-microchip"></i>
+                <h4>AI Integration</h4>
+                <p>Enhance user experiences with AI, ensuring smooth, intuitive, and predictive interfaces.</p>
               </div>
               <!-- End Single Service Block -->
             </div>
@@ -54,8 +54,8 @@
               <!-- Start Single Service Block -->
               <div class="service-block text-center mt-4">
                 <i class="fa fa-bar-chart"></i>
-                <h4>Mobility</h4>
-                <p>A complete web app solution for business</p>
+                <h4>Responsive Design</h4>
+                <p>Ensure seamless functionality and appearance across smartphones, tablets, and desktops for a consistent user experience.</p>
               </div>
               <!-- End Single Service Block -->
             </div>
