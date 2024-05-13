@@ -300,7 +300,7 @@
             <div class="row">
               <div class="col-md-6">
                 <div class="progress-wrap">
-                  <h5>Photoshop</h5>
+                  <h5>Angular</h5>
                   <div class="progress">
                     <div class="progress-bar" style="width:90%">
                       <span>90%</span>
@@ -310,27 +310,7 @@
               </div>
               <div class="col-md-6">
                 <div class="progress-wrap">
-                  <h5>jQuery</h5>
-                  <div class="progress">
-                    <div class="progress-bar" style="width:85%">
-                      <span>85%</span>
-                    </div>
-                  </div>
-                </div>
-              </div>
-              <div class="col-md-6">
-                <div class="progress-wrap">
-                  <h5>HTML5</h5>
-                  <div class="progress">
-                    <div class="progress-bar" style="width:95%">
-                      <span>95%</span>
-                    </div>
-                  </div>
-                </div>
-              </div>
-              <div class="col-md-6">
-                <div class="progress-wrap">
-                  <h5>CSS3</h5>
+                  <h5>RxJs</h5>
                   <div class="progress">
                     <div class="progress-bar" style="width:90%">
                       <span>90%</span>
@@ -340,20 +320,135 @@
               </div>
               <div class="col-md-6">
                 <div class="progress-wrap">
-                  <h5>WordPress</h5>
+                  <h5>NgRx</h5>
                   <div class="progress">
-                    <div class="progress-bar" style="width:70%">
-                      <span>70%</span>
+                    <div class="progress-bar" style="width:60%">
+                      <span>60%</span>
                     </div>
                   </div>
                 </div>
               </div>
               <div class="col-md-6">
                 <div class="progress-wrap">
-                  <h5>SEO</h5>
+                  <h5>Pinia</h5>
+                  <div class="progress">
+                    <div class="progress-bar" style="width:40%">
+                      <span>40%</span>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="col-md-6">
+                <div class="progress-wrap">
+                  <h5>Akita</h5>
+                  <div class="progress">
+                    <div class="progress-bar" style="width:20%">
+                      <span>20%</span>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="col-md-6">
+                <div class="progress-wrap">
+                  <h5>Vue</h5>
+                  <div class="progress">
+                    <div class="progress-bar" style="width:60%">
+                      <span>60%</span>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="col-md-6">
+                <div class="progress-wrap">
+                  <h5>Tailwind</h5>
+                  <div class="progress">
+                    <div class="progress-bar" style="width:50%">
+                      <span>50%</span>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="col-md-6">
+                <div class="progress-wrap">
+                  <h5>Tailwind</h5>
+                  <div class="progress">
+                    <div class="progress-bar" style="width:50%">
+                      <span>50%</span>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="col-md-6">
+                <div class="progress-wrap">
+                  <h5>Node</h5>
+                  <div class="progress">
+                    <div class="progress-bar" style="width:20%">
+                      <span>20%</span>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="col-md-6">
+                <div class="progress-wrap">
+                  <h5>MongoDB</h5>
+                  <div class="progress">
+                    <div class="progress-bar" style="width:30%">
+                      <span>30%</span>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+              <div class="col-md-6">
+                <div class="progress-wrap">
+                  <h5>Highcharts</h5>
+                  <div class="progress">
+                    <div class="progress-bar" style="width:40%">
+                      <span>40%</span>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+              <div class="col-md-6">
+                <div class="progress-wrap">
+                  <h5>D3</h5>
+                  <div class="progress">
+                    <div class="progress-bar" style="width:40%">
+                      <span>40%</span>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+              <div class="col-md-6">
+                <div class="progress-wrap">
+                  <h5>Angular Material</h5>
                   <div class="progress">
                     <div class="progress-bar" style="width:80%">
                       <span>80%</span>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+              <div class="col-md-6">
+                <div class="progress-wrap">
+                  <h5>Quasar</h5>
+                  <div class="progress">
+                    <div class="progress-bar" style="width:60%">
+                      <span>60%</span>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+              <div class="col-md-6">
+                <div class="progress-wrap">
+                  <h5>Kendo</h5>
+                  <div class="progress">
+                    <div class="progress-bar" style="width:30%">
+                      <span>30%</span>
                     </div>
                   </div>
                 </div>
