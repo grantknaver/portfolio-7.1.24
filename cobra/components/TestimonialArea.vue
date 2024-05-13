@@ -9,17 +9,13 @@
             <!-- start tetimonial item -->
             <div class="test-item">
               <p>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                Curabitur leo est, feugiat nec elementum id, suscipit id nulla.
-                Nulla sit amet luctus dolor. Etiam finibus consequat ante ac
-                congue. Quisque porttitor porttitor tempus.
+                "Produces quality, is easy to work with, and thinks outside the box."
               </p>
               <div class="author-info">
                 <img src="https://via.placeholder.com/50x50" alt="client" />
-                <h4>Soura</h4>
+                <h4>Lisa Copeland</h4>
                 <div class="position">
-                  Project Manager
-                  <span>Karmen</span>
+                  Senior Developer - Democracy Now
                 </div>
               </div>
             </div>
@@ -28,17 +24,13 @@
             <!-- start tetimonial item -->
             <div class="test-item">
               <p>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                Curabitur leo est, feugiat nec elementum id, suscipit id nulla.
-                Nulla sit amet luctus dolor. Etiam finibus consequat ante ac
-                congue. Quisque porttitor porttitor tempus.
+                "Easy to corroborate with and picks up stuff fast."
               </p>
               <div class="author-info">
                 <img src="https://via.placeholder.com/50x50" alt="client" />
-                <h4>Sara Ezzat</h4>
+                <h4>James Knippel</h4>
                 <div class="position">
-                  Project Manager
-                  <span>Ask</span>
+                  Senior Developer - Lockheed Martin
                 </div>
               </div>
             </div>
@@ -47,24 +39,20 @@
             <!-- start tetimonial item -->
             <div class="test-item">
               <p>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                Curabitur leo est, feugiat nec elementum id, suscipit id nulla.
-                Nulla sit amet luctus dolor. Etiam finibus consequat ante ac
-                congue. Quisque porttitor porttitor tempus.
+                "Dependable and fast, has no problems with deadlines."
               </p>
               <div class="author-info">
                 <img src="https://via.placeholder.com/50x50" alt="client" />
-                <h4>Ahmed Ezzat</h4>
+                <h4>Bryce Morrison</h4>
                 <div class="position">
-                  Project Manager
-                  <span>Twitter</span>
+                  CEO - MorrHeat
                 </div>
               </div>
             </div>
             <!-- end tetimonial item -->
 
             <!-- start tetimonial item -->
-            <div class="test-item">
+            <!-- <div class="test-item">
               <p>
                 Lorem ipsum dolor sit amet, consectetur adipiscing elit.
                 Curabitur leo est, feugiat nec elementum id, suscipit id nulla.
@@ -79,7 +67,7 @@
                   <span>Facebook</span>
                 </div>
               </div>
-            </div>
+            </div> -->
             <!-- end tetimonial item -->
           </div>
           <!-- end testimonial carousel -->

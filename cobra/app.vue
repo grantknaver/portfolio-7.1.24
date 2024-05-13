@@ -18,10 +18,10 @@
   <AboutArea />
   <ResumeArea />
   <WorksArea />
-  <PriceArea />
+  <!-- <PriceArea /> -->
   <HireArea />
   <TestimonialArea />
-  <BlogArea />
+  <!-- <BlogArea /> -->
   <ContactArea />
   <NuxtLayout>
   </NuxtLayout>

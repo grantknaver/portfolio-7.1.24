@@ -7,15 +7,13 @@
           <div class="section-title">
             <h2>Hire Me</h2>
             <p>
-              It is a long established fact that a reader will be distracted by
-              the readable content of a page when looking at its layout. some
-              for as low as $.17 each.
+              If you want a dedicated, driven developer, who is ready to work with a diverse team. Feel free to give me a ring.
             </p>
           </div>
         </div>
       </div>
 
-      <div class="row">
+      <!-- <div class="row">
         <div class="col-lg-4 col-md-4">
           <div class="hire-box">
             <h4>+22 12345 678 9012</h4>
@@ -39,7 +37,7 @@
             Hire Me
           </a>
         </div>
-      </div>
+      </div> -->
     </div>
   </section>
   <!-- End Hire Me Area -->

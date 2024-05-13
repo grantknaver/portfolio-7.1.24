@@ -21,7 +21,7 @@
               </div>
               <div class="media-body">
                 <h4>Email</h4>
-                <span>Your@gmail.com</span>
+                <span>glkfreelance@gmail.com</span>
               </div>
             </div>
 
@@ -31,17 +31,17 @@
               </div>
               <div class="media-body">
                 <h4>Phone</h4>
-                <span>111-2222-333</span>
+                <span>(541) 288 - 3502</span>
               </div>
             </div>
 
             <div class="media align-items-center">
               <div class="media-icon">
-                <i class="icon-social-skype"></i>
+                <i class="icon-social-linkedin"></i>
               </div>
               <div class="media-body">
-                <h4>Skype</h4>
-                <span>Yuor Skype</span>
+                <h4>LinkedIn</h4>
+                <a href="https://www.linkedin.com/in/grant-knaver/">Link</a>
               </div>
             </div>
           </div>
@@ -79,6 +79,7 @@
                   class="form-control"
                   name="subject"
                   placeholder="Enter the discussion title"
+                  v-model="subject"
                 />
               </div>
             </div>
@@ -89,14 +90,17 @@
                   id="message"
                   class="form-control"
                   placeholder="Write your message"
+                  v-model="message"
                 ></textarea>
               </div>
             </div>
             <div class="col-xs-12 col-sm-12">
               <div class="button-field">
-                <button type="submit" class="btn radius-btn">
+                <a href="mailto:indievision.dev@protonmail.com?subject={{subject}}&body={{ message }}">
+                  <button type="button" class="btn radius-btn">
                   Send Message now
                 </button>
+                </a>
               </div>
             </div>
           </form>
@@ -109,6 +113,12 @@
 
 <script>
 export default {
-  name: "ContactArea"
+  name: "ContactArea",
+  data() {
+    return {
+      subject: '',
+      message: ''
+    };
+  }
 };
 </script>

@@ -19,7 +19,7 @@
               <!-- <li><a href="#page-1">Education</a></li> -->
               <li><a href="#page-2">Experience</a></li>
               <li><a href="#page-3">Skills</a></li>
-              <li><a href="#page-4">Awards</a></li>
+              <!-- <li><a href="#page-4">Certificates</a></li> -->
             </ul>
           </nav>
           <!-- End Resume Nav -->
@@ -458,7 +458,7 @@
           <!-- End Skills -->
 
           <!-- Start Awards -->
-          <div id="page-4" class="page four">
+          <!-- <div id="page-4" class="page four">
             <h3 class="heading">Certificates</h3>
             <div class="resume-wrap transition d-flex">
               <div class="icon d-flex align-items-center justify-content-center">
@@ -508,7 +508,7 @@
                 </p>
               </div>
             </div>
-          </div>
+          </div> -->
           <!-- End Awards -->
         </div>
       </div>
