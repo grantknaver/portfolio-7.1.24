@@ -12,7 +12,7 @@
                 "Produces quality, is easy to work with, and thinks outside the box."
               </p>
               <div class="author-info">
-                <img src="https://via.placeholder.com/50x50" alt="client" />
+                <img src="../assets/img/lisa.png" alt="client" />
                 <h4>Lisa Copeland</h4>
                 <div class="position">
                   Senior Developer - Democracy Now
@@ -27,7 +27,7 @@
                 "Easy to corroborate with and picks up stuff fast."
               </p>
               <div class="author-info">
-                <img src="https://via.placeholder.com/50x50" alt="client" />
+                <img src="../assets/img/jamesK.png" alt="client" />
                 <h4>James Knippel</h4>
                 <div class="position">
                   Senior Developer - Lockheed Martin
@@ -42,7 +42,7 @@
                 "Dependable and fast, has no problems with deadlines."
               </p>
               <div class="author-info">
-                <img src="https://via.placeholder.com/50x50" alt="client" />
+                <img src="../assets/img/bryce.png" alt="client" />
                 <h4>Bryce Morrison</h4>
                 <div class="position">
                   CEO - MorrHeat
