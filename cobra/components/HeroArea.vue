@@ -29,7 +29,7 @@
                 <div class="col-lg-6 d-none d-lg-block">
                     <!-- Hero Right Image -->
                     <div class="hero-img">
-                        <img src="https://via.placeholder.com/500x716" alt="Hero image" />
+                        <img style="width: 500px; height: 716px;" src="../assets/img/profile.jpg" alt="Hero image" />
                     </div>
                 </div>
             </div>

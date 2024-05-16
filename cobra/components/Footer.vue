@@ -13,6 +13,7 @@
                         </div>
                         <div class="footer-social text-center">
                             <a href="https://www.linkedin.com/in/grant-knaver/"><i class="fa fa-linkedin transition"></i></a>
+                            <a href="https://github.com/grantknaver"><i class="fa fa-github transition"></i></a>
                             <!-- <a href="#"><i class="fa fa-facebook transition"></i></a>
                             <a href="#"><i class="fa fa-twitter transition"></i></a>
                             <a href="#"><i class="fa fa-dribbble transition"></i></a>

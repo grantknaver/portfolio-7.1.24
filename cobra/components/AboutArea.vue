@@ -8,7 +8,8 @@
           <div class="img-about">
             <img
               class="img-fluid"
-              src="https://via.placeholder.com/824x1024"
+              style="width: 824px; height: 1024;"
+              src="../assets/img/software-development.png"
               alt="abou me"
             />
           </div>

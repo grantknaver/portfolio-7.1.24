@@ -8,7 +8,7 @@
                         <!-- Logo -->
                         <div class="col-xl-2 col-lg-2 col-md-2">
                             <div class="logo">
-                                <a href="#"><img style="width: 50px; height: 50px;" src="../assets/img/logo-1.png" alt="logo" /></a>
+                                <img style="width: 50px; height: 50px;" src="../assets/img/logo-1.png" alt="logo" />
                             </div>
                         </div>
                         <div class="col-xl-10 col-lg-10 col-md-10">
@@ -105,11 +105,3 @@ export default {
     }
 }
 </script>
-
-<style scoped>
-
-.logo-restrict {
-    height: 50px;
-    width: 50px;
-}
-</style>
