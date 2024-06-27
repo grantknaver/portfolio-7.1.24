@@ -87,28 +87,18 @@
                 <span class="icon-briefcase"></span>
               </div>
               <div class="text ps-3">
-                <span class="date">2023-Present</span>
-                <h4>Software Developer</h4>
-                <span class="position">ORNL</span>
-                <ul>
-                  <li>• Angular Development (version 17)</li>
-                  <li>• NgRx for state management</li>
-                  <li>• SCSS for styling</li>
-                  <li>• Consumed and developed Rest APIs</li>
-                  <li>• GIS integration</li>
-                </ul>
-              </div>
-            </div>
-            <div class="resume-wrap transition d-flex">
-              <div class="icon d-flex align-items-center justify-content-center">
-                <span class="icon-briefcase"></span>
-              </div>
-              <div class="text ps-3">
                 <span class="date">2017-Present</span>
                 <h4>Software Developer | Designer</h4>
                 <span class="position">Glkfreelance & IndieVision LLC</span>
+                <h5 class="sub-heading">Example Projects</h5>
                 <ul>
-                  <li>• Angular Development (version 6 - 17)</li>
+                  <li>• Storytaim: An AI narration application, allowing for speedy narration and a robust voice cast.</li>
+                  <li>• Gametime Hero: An event planning application (Sports, DND, etc.)</li>
+                </ul>
+                
+                <h5 class="sub-heading">Skills</h5>
+                <ul>
+                  <li>• Angular Development (version 6 - 16)</li>
                   <li>• Vue Development (Options & Composition API)</li>
                   <li>• State management (NgRx, Pinia, Akita)</li>
                   <li>• Component Libraries (Material, Kendo, Quasar, Vuetify)</li>
@@ -117,6 +107,23 @@
                   <li>• Wix Development</li>
                   <li>• WordPress Development</li>
                   <li>• Image Manipulation (GIMP, Photoshop)</li>
+                </ul>
+              </div>
+            </div>
+            <div class="resume-wrap transition d-flex">
+              <div class="icon d-flex align-items-center justify-content-center">
+                <span class="icon-briefcase"></span>
+              </div>
+              <div class="text ps-3">
+                <span class="date">2023</span>
+                <h4>Software Developer</h4>
+                <span class="position">ORNL</span>
+                <ul>
+                  <li>• Angular Development (version 17)</li>
+                  <li>• NgRx for state management</li>
+                  <li>• SCSS for styling</li>
+                  <li>• Consumed and developed Rest APIs</li>
+                  <li>• GIS integration</li>
                 </ul>
               </div>
             </div>
@@ -569,3 +576,11 @@ export default {
   }
 };
 </script>
+<style scoped>
+.sub-heading {
+  font-weight: bold;
+  padding: 10px 0;
+  color: #fff;
+}
+
+</style>

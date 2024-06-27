@@ -549,6 +549,14 @@ h2.service-title {
   color: #fff;
 }
 
+.page .resume-wrap h5 {
+  color: #3c1111;
+}
+
+.page .resume-wrap:hover h5 {
+  color: #fff;
+}
+
 .progress-wrap {
   width: 100%;
   margin-bottom: 30px;
