@@ -81,8 +81,8 @@
               <div class="thumb">
                 <img class="image  img-fluid" src="../assets/img/storytaim.svg" alt="rxjs portfolio" />
               </div>
-              <a class="overlay transition" href="https://rxjs-wkwd2p.stackblitz.io/">
-                <div class="short-info transition">
+              <a @click="tempAlert()" class="overlay transition tempAlert">
+              <div class="short-info">
                 <h4>Storytaim</h4>
                 <div class="cat">Personal Project (Y Combinator)</div>
               </div>
@@ -168,6 +168,16 @@ export default {
       });
     }
 
-  }
+  },
+  methods: {
+    tempAlert() {
+      alert('Coming Soon! Waiting on permission from Y Combinator.');
+    }
+  },
 };
 </script>
+<style scoped>
+.tempAlert {
+  cursor: pointer;
+}
+</style>
