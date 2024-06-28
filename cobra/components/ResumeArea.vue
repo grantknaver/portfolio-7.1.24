@@ -118,6 +118,11 @@
                 <span class="date">2023</span>
                 <h4>Software Developer</h4>
                 <span class="position">ORNL</span>
+                <h5 class="sub-heading">Example Projects</h5>
+                <ul>
+                  <li>• Veterans Association (GIS Project): An application layering multiple geometries and datasets on top of eachother, to decipher hidden data connections.</li>
+                </ul>
+                <h5 class="sub-heading">Skills</h5>
                 <ul>
                   <li>• Angular Development (version 17)</li>
                   <li>• NgRx for state management</li>

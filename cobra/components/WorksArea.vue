@@ -28,7 +28,7 @@
         <div class="row grid">
 
           <!-- start single work item -->
-          <div class="single-work col-lg-4 col-md-6 col-sm-12 all web-design branding">
+          <!-- <div class="single-work col-lg-4 col-md-6 col-sm-12 all web-design branding">
             <div class="position-relative">
               <div class="thumb">
                 <img class="image  img-fluid" src="../assets/img/angular-animations.png" alt="angular animations" />
@@ -40,11 +40,11 @@
                 </div>
               </a>
             </div>
-          </div>
+          </div> -->
           <!-- end single work item -->
 
-                    <!-- start single work item -->
-          <div class="single-work col-lg-4 col-md-6 col-sm-12 all creative">
+          <!-- start single work item -->
+          <!-- <div class="single-work col-lg-4 col-md-6 col-sm-12 all creative">
             <div class="position-relative">
               <div class="thumb">
                 <img class="image img-fluid" src="../assets/img/not-trello.svg" alt="not trello" />
@@ -56,18 +56,18 @@
               </div>
               </a>
             </div>
-          </div>
+          </div> -->
           <!-- end single work item -->
 
           <!-- start single work item -->
-          <div class="single-work col-lg-4 col-md-6 col-sm-12 all branding web-design">
+          <div class="single-work col-lg-4 offset-lg-1 col-md-6 col-sm-12 all branding web-design">
             <div class="position-relative">
               <div class="thumb">
                 <img class="image  img-fluid" src="../assets/img/rxjs.svg" alt="rxjs portfolio" />
               </div>
               <a class="overlay transition" href="https://rxjs-wkwd2p.stackblitz.io/">
                 <div class="short-info transition">
-                <h4>RxJs</h4>
+                <h4>RxJS</h4>
                 <div class="cat">Personal Project</div>
               </div>
               </a>
@@ -76,7 +76,23 @@
           <!-- end single work item -->
 
           <!-- start single work item -->
-          <div class="single-work col-lg-4 col-md-6 col-sm-12 all web-design">
+          <div class="single-work col-lg-4 offset-lg-1 col-lg col-md-6 col-sm-12 all branding web-design">
+            <div class="position-relative">
+              <div class="thumb">
+                <img class="image  img-fluid" src="../assets/img/storytaim.svg" alt="rxjs portfolio" />
+              </div>
+              <a class="overlay transition" href="https://rxjs-wkwd2p.stackblitz.io/">
+                <div class="short-info transition">
+                <h4>Storytaim</h4>
+                <div class="cat">Personal Project (Y Combinator)</div>
+              </div>
+              </a>
+            </div>
+          </div>
+          <!-- end single work item -->
+
+          <!-- start single work item -->
+          <!-- <div class="single-work col-lg-4 col-md-6 col-sm-12 all web-design">
             <div class="position-relative">
               <div class="thumb">
                 <img class="image  img-fluid" src="../assets/img/simon.png" alt="simon" />
@@ -87,11 +103,11 @@
                 <div class="cat">Personal Project</div>
               </div>
             </div>
-          </div>
+          </div> -->
           <!-- end single work item -->
 
           <!-- start single work item -->
-          <div class="single-work col-lg-4 col-md-6 col-sm-12 all creative">
+          <!-- <div class="single-work col-lg-4 col-md-6 col-sm-12 all creative">
             <div class="position-relative">
               <div class="thumb">
                 <img class="image  img-fluid" src="../assets/img/tic-tac-toe.svg" alt="tic tac toe" />
@@ -102,11 +118,11 @@
                 <div class="cat">Personal Project</div>
               </div>
             </div>
-          </div>
+          </div> -->
           <!-- end single work item -->
 
           <!-- start single work item -->
-          <div class="single-work col-lg-4 col-md-6 col-sm-12 all branding">
+          <!-- <div class="single-work col-lg-4 col-md-6 col-sm-12 all branding">
             <div class="position-relative">
               <div class="thumb">
                 <img class="image  img-fluid" src="../assets/img/recipes.png" alt="recipes" />
@@ -117,7 +133,7 @@
                 <div class="cat">Personal Project</div>
               </div>
             </div>
-          </div>
+          </div> -->
           <!-- end single work item -->
         </div>
       </div>

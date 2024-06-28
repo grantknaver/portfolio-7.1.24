@@ -21,6 +21,7 @@
   <!-- <PriceArea /> -->
   <HireArea />
   <TestimonialArea />
+  <WorkHistory />
   <!-- <BlogArea /> -->
   <ContactArea />
   <NuxtLayout>
