@@ -9,7 +9,7 @@
             <img
               class="img-fluid"
               style="width: 824px; height: 1024;"
-              src="../assets/img/software-development.png"
+              src="../assets/img/sky2.png"
               alt="abou me"
             />
           </div>

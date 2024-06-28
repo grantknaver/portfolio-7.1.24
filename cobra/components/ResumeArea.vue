@@ -92,8 +92,9 @@
                 <span class="position">Glkfreelance & IndieVision LLC</span>
                 <h5 class="sub-heading">Example Projects</h5>
                 <ul>
-                  <li>• Storytaim: An AI narration application, allowing for speedy narration and a robust voice cast.</li>
-                  <li>• Gametime Hero: An event planning application (Sports, DND, etc.)</li>
+                  <li>• Storytaim: An AI narration application that delivers fast, high-quality narration with a diverse and dynamic voice cast</li>
+                  <li>• Gametime Hero: A versatile event planning application, perfect for organizing sports events, Dungeons & Dragons sessions, and more.</li>
+                  <li>• Many, many, more...</li>
                 </ul>
                 
                 <h5 class="sub-heading">Skills</h5>
@@ -118,9 +119,9 @@
                 <span class="date">2023</span>
                 <h4>Software Developer</h4>
                 <span class="position">ORNL</span>
-                <h5 class="sub-heading">Example Projects</h5>
+                <h5 class="sub-heading">Project</h5>
                 <ul>
-                  <li>• Veterans Association (GIS Project): An application layering multiple geometries and datasets on top of eachother, to decipher hidden data connections.</li>
+                  <li>• Veterans Association (GIS Project): An advanced application that layers multiple geometries and datasets, revealing hidden data connections and insights.</li>
                 </ul>
                 <h5 class="sub-heading">Skills</h5>
                 <ul>
@@ -140,6 +141,12 @@
                 <span class="date">2023</span>
                 <h4>Angular Developer</h4>
                 <span class="position">T2</span>
+                <h5 class="sub-heading">Project</h5>
+                <ul>
+                  <li>• Parking Assist: A parking application with a strong emphasis on an enhanced and user-friendly UI experience.</li>
+                </ul>
+                
+                <h5 class="sub-heading">Skills</h5>
                 <ul>
                   <li>• Angular Development (version 15)</li>
                   <li>• NgRx for state management</li>
@@ -158,6 +165,11 @@
                 <span class="date">2022-2023</span>
                 <h4>Angular Developer</h4>
                 <span class="position">Pyramid Consulting - Labcorp</span>
+                <h5 class="sub-heading">Project</h5>
+                <ul>
+                  <li>• LabRx: An innovative application that digitizes the Labcorp testing process, streamlining workflows and improving efficiency.</li>
+                </ul>
+                <h5 class="sub-heading">Skills</h5>
                 <ul>
                   <li>• Angular Development (version 13 - 15)</li>
                   <li>• RxJS to address asynchronous data flows</li>
@@ -183,6 +195,11 @@
                 <span class="date">2022</span>
                 <h4>Angular Developer</h4>
                 <span class="position">L&T Infotech, LTI</span>
+                <h5 class="sub-heading">Project</h5>
+                <ul>
+                  <li>• CyberFill: Introducing a groundbreaking application that transitions the Labcorp testing process from analog to digital, enhancing accuracy, speed, and convenience for both patients and healthcare providers.</li>
+                </ul>
+                <h5 class="sub-heading">Skills</h5>
                 <ul>
                   <li>• Further JavaScript training</li>
                   <li>• Basic cyber security training</li>
@@ -198,6 +215,11 @@
                 <span class="date">2022</span>
                 <h4>Angular Developer</h4>
                 <span class="position">OpenArc - SAE</span>
+                <h5 class="sub-heading">Project</h5>
+                <ul>
+                  <li>• TCE: Introducing an application designed to boost internal efficiency across multiple departments, streamlining workflows and enhancing overall productivity.</li>
+                </ul>
+                <h5 class="sub-heading">Skills</h5>
                 <ul>
                   <li>• Angular Development (version 13 & 14)</li>
                   <li>• Used Material library in development Developed requests to accommodate multi-variable backend filtering</li>
@@ -217,6 +239,11 @@
                 <span class="date">2021 - 2022</span>
                 <h4>Angular Developer</h4>
                 <span class="position">TCS - Amtrak</span>
+                <h5 class="sub-heading">Project</h5>
+                <ul>
+                  <li>• Retrack: An application updating the routing options for customers.</li>
+                </ul>
+                <h5 class="sub-heading">Skills</h5>
                 <ul>
                   <li>• Angular Development (version 13 & 14)</li>
                   <li>• Used Material library in development Developed requests to accommodate multi-variable backend filtering</li>
@@ -236,6 +263,11 @@
                 <span class="date">2020 - 2021</span>
                 <h4>Angular Developer</h4>
                 <span class="position">Apex Systems - Lockheed Martin</span>
+                <h5 class="sub-heading">Project</h5>
+                <ul>
+                  <li>• Redirect: An application that upgrades Excel databases to a more modern, efficient, and user-friendly platform, enhancing data management and accessibility.</li>
+                </ul>
+                <h5 class="sub-heading">Skills</h5>
                 <ul>
                   <li>• Angular Development (version 8 & 9)</li>
                   <li>• Contributed to 3 Angular feature modules</li>
@@ -263,6 +295,11 @@
                 <span class="date">2018 - 2019</span>
                 <h4>Lead Developer</h4>
                 <span class="position">Privacy Corps</span>
+                <h5 class="sub-heading">Project</h5>
+                <ul>
+                  <li>• Connection: An application that offers highly customizable phone line options, seamlessly transitioning to a virtual communication system tailored to your needs.</li>
+                </ul>
+                <h5 class="sub-heading">Skills</h5>
                 <ul>
                   <li>• Angular Development (versions 7 & 8)</li>
                   <li>• Built over 20 feature modules</li>
@@ -287,6 +324,12 @@
                 <span class="date">2017 - 2018</span>
                 <h4>Web Developer | Web Manager</h4>
                 <span class="position">Econoheat</span>
+                <h5 class="sub-heading">Projects</h5>
+                <ul>
+                  <li>• Landing Pages: An application that provides a unique and tailored landing page for each heater or boiler, ensuring personalized information and an optimized user experience.</li>
+                  <li>• ROI Calculator: A a calculator that took into account HVAC data to help a customer get the most account ROI estimate.</li>
+                </ul>
+                <h5 class="sub-heading">Skills</h5>
                 <ul>
                   <li>• Angular Development (version 6)</li>
                   <li>• Built six responsive landing pages using Angular and Material</li>

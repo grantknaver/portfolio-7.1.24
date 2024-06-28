@@ -29,7 +29,7 @@
                 <div class="col-lg-6 d-none d-lg-block">
                     <!-- Hero Right Image -->
                     <div class="hero-img">
-                        <img style="width: 500px; height: 716px;" src="../assets/img/profile.jpg" alt="Hero image" />
+                        <img style="width: 500px; height: 716px;" src="../assets/img/sky1.png" alt="Hero image" />
                     </div>
                 </div>
             </div>
